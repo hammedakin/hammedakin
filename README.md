@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Devloper 
 -------------------------
 
-I'm a student of Statistics but I have passion for Computer Programming and I chose to build a build in tech.
+I'm a student of Statistics but I have passion for Computer Programming and I chose to build a career in tech.
 
 *   🌍  I'm based in Nigeria
-*   ✉️  My personal portfolio [hammedakin.xyz](mailto:hammedakin.xyz)
+*   ✉️  My personal portfolio [hammedakin.xyz](https://hammedakin.xyz)
 *   ✉️  You can contact me at [hakra911@gmail.com](mailto:hakra911@gmail.com)
 *   🧠  I'm a React Dev
 *   🤝  I'm open to collaborating on Projects
