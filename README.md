@@ -2,7 +2,7 @@
 
 ## Frontend Web Devloper
 
-<!-- I'm a student of Statistics but I have passion for Computer Programming and I chose to build a career in tech. -->
+<!-- I'm a student of Statistics but I have a passion for Computer Programming and I chose to build a career in tech. -->
 
 - 🌍  I'm based in Nigeria
 - ✉️  My personal portfolio [hammedakin.xyz](https://hammedakin.xyz)
